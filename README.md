@@ -1,2 +1,2 @@
 # WebDev
-Repo for my web development class.
+Repo for my web development class by Colt Steele.
